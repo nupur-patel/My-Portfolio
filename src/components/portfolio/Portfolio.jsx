@@ -20,17 +20,9 @@ const Portfolio = () => {
       link: 'https://cinemareview.vercel.app/',
       github: 'https://github.com/nupur-patel/react-project',
     },
+  
     {
-      id: 2,
-      title: 'Stock Portfolio App',
-      img: IMG2,
-      description:
-        'Stock Portfolio is APIs to manage stock portfolios of user and to manage capital gains and dividend yeild',
-      technologies: 'Django | Django Rest Framework',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
-    },
-    {
-      id: 6,
+      id: 3,
       title: 'MiTicket',
       img: IMG6,
       description:"Custom ticketing system designed and developed as per client's requirement.",
@@ -38,6 +30,14 @@ const Portfolio = () => {
       github: 'https://github.com/nupur-patel/MiTicket',
     },
    
+    {
+      id: 5,
+      title: 'BizzMatic',
+      img: IMG5,
+      description:'Landing Page for bizzMAtic',
+      technologies: 'HTML | CSS | JavaScript',
+      github: 'https://github.com/nupur-patel/BIZZMATIC',
+    },
     {
       id: 4,
       title: 'Guddi',
@@ -47,17 +47,19 @@ const Portfolio = () => {
       technologies: 'React | Firebase',
       github: 'https://github.com/nupur-patel/guddi',
     },
+  
     {
-      id: 5,
-      title: 'BizzMatic',
-      img: IMG5,
-      description:'Landing Page for bizzMAtic',
-      technologies: 'HTML | CSS | JavaScript',
-      github: 'https://github.com/nupur-patel/BIZZMATIC',
+      id: 2,
+      title: 'Stock Portfolio App',
+      img: IMG2,
+      description:
+        'Stock Portfolio is APIs to manage stock portfolios of user and to manage capital gains and dividend yeild',
+      technologies: 'Django | Django Rest Framework',
+      github: 'https://github.com/Meri-MG/Fakestore---react',
     },
      
     {
-      id: 3,
+      id: 6,
       title: 'i-card Managment',
       img: IMG3,
       description: 'i card generation system using user data and keep record of user',
