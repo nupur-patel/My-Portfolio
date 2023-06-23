@@ -55,7 +55,7 @@ const Portfolio = () => {
       description:
         'Stock Portfolio is APIs to manage stock portfolios of user and to manage capital gains and dividend yeild',
       technologies: 'Django | Django Rest Framework',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+      github: 'https://github.com/nupur-patel/Django-Project',
     },
      
     {
