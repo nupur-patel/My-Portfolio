@@ -30,13 +30,14 @@ const Portfolio = () => {
       github: 'https://github.com/Meri-MG/Fakestore---react',
     },
     {
-      id: 3,
-      title: 'i-card Managment',
-      img: IMG3,
-      description: 'i card generation system using user data and keep record of user',
-      technologies: 'Python | Django',
-      github: 'https://github.com/nupur-patel/Icard_Management',
-    }, 
+      id: 6,
+      title: 'MiTicket',
+      img: IMG6,
+      description:"Custom ticketing system designed and developed as per client's requirement.",
+      technologies: 'Django | MySql | Celery ',
+      github: 'https://github.com/nupur-patel/MiTicket',
+    },
+   
     {
       id: 4,
       title: 'Guddi',
@@ -54,15 +55,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | JavaScript',
       github: 'https://github.com/nupur-patel/BIZZMATIC',
     },
+     
     {
-      id: 6,
-      title: 'MiTicket',
-      img: IMG6,
-      description:"Custom ticketing system designed and developed as per client's requirement.",
-      technologies: 'Django | MySql | Celery ',
-      github: 'https://github.com/nupur-patel/MiTicket',
-    },
-    
+      id: 3,
+      title: 'i-card Managment',
+      img: IMG3,
+      description: 'i card generation system using user data and keep record of user',
+      technologies: 'Python | Django',
+      github: 'https://github.com/nupur-patel/Icard_Management',
+    }, 
+   
     
     
 
