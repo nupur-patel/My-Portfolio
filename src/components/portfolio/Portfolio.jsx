@@ -1,5 +1,6 @@
 import React from 'react';
 import IMG1 from '../../assets/film.png';
+import IMG2 from '../../assets/nophoto.png'
 import IMG3 from '../../assets/icard.png';
 import IMG4 from '../../assets/guddi.png';
 import IMG5 from '../../assets/bizzmatic.png';
@@ -22,7 +23,7 @@ const Portfolio = () => {
     {
       id: 2,
       title: 'Stock Portfolio App',
-      
+      img: IMG2,
       description:
         'Stock Portfolio is APIs to manage stock portfolios of user and to manage capital gains and dividend yeild',
       technologies: 'Django | Django Rest Framework',
